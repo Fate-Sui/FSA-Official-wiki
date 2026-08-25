@@ -73,6 +73,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
   <p>Spiritual energy is the source of power for Spirit Tamers. This energy is formed from various materials found throughout the universe. Therefore, Spirit Tamers must be able to control and manifest their spiritual energy more controlled and carefully. Because if any Spirit Tamer fails to control their powers, the ecosystem of the universe will become uncontrollable and most likely... Collapse.</p>
 
   <p>There is a concept called <strong>Field</strong>. Field is a concept where a Spirit Tamer or pure spirit creates a dimension where they can manipulate the environment and its contents. However, Fields are typically identified with a type of spirit. For example, an angel's Field is associated with a bright, hopeful environment, usually symbolized by the sky. Meanwhile, the devil's Field is symbolized as a sea so deep that it feels endless, as a form of despair, destruction, and darkness.</p>
+  <p>There's an absolute rule: spirits of the same kind cannot kill each other. While they can still injure each other, regeneration can eventually heal the wounds. And the situation would be different, for example, if an angel managed to inflict a slash wound on a demon, the wound wouldn't heal quickly. And it would take quite a long time to completely heal the wound.</p>
 
   <p>There are several levels of evolution and transformation that a Spirit Tamer can undergo:</p>
   <h3>Spirit Buff</h3>
@@ -207,4 +208,40 @@ His journey continued until he finally met his other self, Marshall. As differen
 Compared to Marshall, who inherited Azathoth's essence of death, Natsugo inherited Azathoth's demonic essence, and this affects their fighting styles. Natsugo tends to rely more on physical prowess and brute force attacks. Though he occasionally uses his revolver, the key to his fighting style lies in physical strength and a head-on approach. And compared to Marshall, who has a cold personality, Natsugo is much more open, cheerful, and comes across as somewhat unstable. He is indeed too kind, but it is precisely because of that kindness that he believes he can change the world's definition of justice.</p>
 
 <p><i>"I am Natsugo Yuga! I will become the number one police officer in the world and change the meaning of justice!"</i></p>
+</section>
+
+<section id="world">
+  <h1></h1>
+  <h1>World of FSA</h1>
+  <h2>Soul Association</h2>
+  <p>Soul Association is a spiritual organization as well as a development facility, first founded by Wataru Yuga. It was founded to gather select individuals to confront wild demons. 
+
+The Soul Association is divided into two branches: the Russian branch and the Japanese branch. The Russian branch was the first to be established. Focuses on technology, development, weaponry, and experimentation. Meanwhile, the Japanese branch began to focus on gathering members who would go into the field to fight wild demons.
+
+However, the Russian branch still had its own force squad, labeled the first generation. These included Razor, Kevin, Louis, and Amanda. They were later joined by Marshall.
+
+The Japanese branch itself has two generations. The second generation included Marcell, Hanabi Yuki, and Suga Machi. Chaired by Aizen. And the third generation includes Sparrow Yuki, Banjou Kirisaki, Akasa Shuna, and Natsugo Yuga, chaired by Jezz and Natalia.</p>
+
+  <h2>Hierarchy & Cosmology</h2>
+  <p>Fade; Soul Apocalypse has so many layers of worlds and hierarchies:</p>
+  <ul>
+    <li><h3>Mortal World</h3></li>
+    <p>The world where humans and other living creatures reside. It is the primary and singular universe, complete with space, time, and life.</p>
+    <li><h3>Field Dimension</h3></li>
+    <p>An alternative dimension that can be created, though its nature is not directly connected to time or primary reality. It still falls within the scope of a three-dimensional world and can scale higher depending on the user's level of existence.</p>
+    <li><h3>Spirirt Realm</h3></li>
+    <p>The realm where angels and demons dwell. Spacetime begins to differ from that of the human realm.</p>
+    <li><h3>Afterdoom</h3></li>
+    <p>A type of afterlife where the deceased enter either heaven or hell. At the same time, it serves as the native world for demons (hell) and angels (heaven).</p>
+    <li><h3>Millenianium</h3></li>
+    <p>This is a Void dimension that houses an entire multiverse (meaning it contains numerous universes) lined up and stretching outward. Outside of each universe, concepts, life, spacetime, and even dimensions cease to exist. This dimension has reached an infinite dimension level with an infinite multiverse, yet that is not its peak.</p>
+    <li><h3>Outer Realm</h3></li>
+    <p>This is sort of the inverse of the Millennium. There is only nothingness, and it does not sustain life from other universes. However, it plays a role as a balancer to the concept of chaos existing across all universes. The entities within this realm no longer share conceptual ties with reality, spacetime, or even life and death. They are absolute emptiness, existing before the universe itself.</p>
+    <li><h3>Observer Realm</h3></li>
+    <p>The realm of the observers, where supreme beings watch over and oversee every multiverse containing infinite universes. They are far beyond the basic hierarchy, possessing the highest existence to ever exist. They are also known by the title <strong>"The Creators."</strong> Furthermore, they are classified as metaphysical entities residing within a metaphysical realm.</p>
+    <li><h3>The Point</h3></li>
+    <p>Literally just a single point (.). There is nothing except a dot on a canvas. No one can comprehend what The Point truly is. Even gods equipped with omniscience cannot interpret it. It is regarded as the ultimate peak that even transcends metaphysical meaning. Even if they have already reached such an absurd level of power, they still will never be able to reach or understand that place.</p>
+    
+  </ul>
+
 </section>
