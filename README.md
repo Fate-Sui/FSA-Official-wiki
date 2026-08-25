@@ -159,7 +159,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <h3>Biography:</h3>
     <p>Marshall D. Roman, is a girl who was born in northern Russia, in a small village. Marshall was originally an ordinary little girl, very shy and innocent. But one day, when her little brother, Carlos, was born, she had to experience the most terrifying incident in her life.
 
-Marshall was the human chosen to be the reincarnation vessel of Azathoth. Due to the changes and influence of Azathoth's existence, the energy Marshall released made everyone in the village turned into a skeleton. Everyone died. Only she and Carlos, the newborn, were still alive. The tragedy was the most devastating trauma in Marshall's life. As a result, he had to leave the village and take Carlos with her to survive. 
+Marshall was the human chosen to be the reincarnation vessel of Azathoth. Due to the changes and influence of Azathoth's existence, the energy Marshall released made everyone in the village turned into a skeleton. Everyone died. Only she and Carlos, the newborn, were still alive. The tragedy was the most devastating trauma in Marshall's life. As a result, she had to leave the village and take Carlos with her to survive. 
 
 Marshall's journey to survive is very difficult, she has to take care of newborn Carlos and look for various necessities of life. And after such a long and bitter journey, Marshall met Wataru, and from that meeting, Marshall and Carlos's lives changed for the better.
 
