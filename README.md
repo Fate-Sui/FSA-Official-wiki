@@ -176,6 +176,7 @@ Marshall is known for being a very cold girl, often showing no mercy to her enem
 Marshall's ultimate feat was when she reached the point where she had transcended his existence, at which point she had completely become the personification of the end.The end of all life, the end of all stories. Making her have very high abilities compared to others.</p>
     <p><i>"I'm not your enemy, I am your END."</i></p>
   </section>
+  
 <section id="natsugo yuga">
   <h1></h1>
     <h2>Natsugo Yuga</h2>
