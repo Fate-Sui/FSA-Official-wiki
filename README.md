@@ -8,7 +8,7 @@
   <a href="#world">World</a>
 </nav>
 
-<section id="home"
+<section id="home">
   <h1></h1>
   <h2>Introduction:</h2>
 <p>Hello! Welcome to the Fade; Soul Apocalypse website, where this website contains various information and facts and trivia related to the Fade; Soul Apocalypse.</p>
@@ -21,7 +21,7 @@ Fade; Soul Apocalypse is a fictional story I wrote. It tells the story of a conf
 
 Enjoy your browsing on this website!</p>
 
-<section id="history"
+<section id="history">
   <h1></h1>
 <h1>History</h1>
   <p>Long ago, there were two opposing spirit races: angels and demons. They waged constant war for power and their respective ideologies. The angels wanted to exterminate the demons because they considered them pests and the source of all evil and darkness in the world. Meanwhile, the demons wanted to exterminate the angels because they wanted freedom. Freedom from the underworld, even though it would create chaos due to their very existence... As a result of this endless war, human civilization continually collapsed. When they began to rebuild their civilization, it always collapsed due to the intense battle between light and darkness. Although this war took place in the spirit dimension, it had a significant impact on the real world. As a result, human civilization did not progress; they had to continually rebuild from scratch. Unfortunately, the impact of the battle between demons and angels caused disasters in the real world, such as massive earthquakes, devastating lightning storms, and unexplained deaths. And for a time, the progress of human civilization was halted. For 4 MILLION YEARS.</p>
@@ -62,7 +62,7 @@ Eventually, as time passed, the other noble families submitted to the Roslia fam
 As time continued to flow, humans began to stray further from truth, justice, and light—which ultimately gave birth to the dark entities known as wild demons.</p>
 </section>
 
-<section id="system"
+<section id="system">
   <h1></h1>
   <h1>System</h1>
   <h2>Spirit Tamer</h2>
@@ -87,7 +87,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
   <p>Revelation is the highest transformation a Spirit Tamer, an angel, or an angelic spirit, can undergo. At this level, they receive abundant blessings, so that they can reach points where the gods cannot reach. Their existence completely affects how the universe, with its life and death, can remain in balance. To counterbalance Resurrection from demon.</p>
 </section>
 
-<section id="characters"
+<section id="characters">
   <h1></h1>
   <h2>Characters</h2>
   <nav>
