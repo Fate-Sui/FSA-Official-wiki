@@ -1,13 +1,14 @@
-<head>
-  <meta charset="UTF-8">
+<head> <meta charset="UTF-8">
   
 <img width="2048" height="2048" alt="FSA website logo" src="https://github.com/user-attachments/assets/fa3949f5-73eb-4c4b-a078-b85bf80b4f23" /><head></head>
 <head>
   <meta charset="UTF-8">
 
   <link rel="icon" type="image/png" href="FSA website logo.png">
-</head>
+  </head>
+ 
 
+  
 <h1>Fade; Soul Apocalypse</h1>
 
 <nav>
