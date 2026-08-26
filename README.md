@@ -210,30 +210,6 @@ Compared to Marshall, who inherited Azathoth's essence of death, Natsugo inherit
 <p><i>"I am Natsugo Yuga! I will become the number one police officer in the world and change the meaning of justice!"</i></p>
 </section>
 
-<section id="wataru yuga">
-  <h1></h1>
-    <h2>Wataru Yuga</h2>
-  <h3>Biodata:</h3>
-  <ul>
-    <li>Classification : human, spirit tamer</li>
-    <li>Age : 33</li>
-    <li>Sex : male</li>
-    <lI>Tall : 185 cm</lI>
-    <li>Weight : 83 kg</li>
-    <li>Date of birth : 7 March</li>
-    <li>Hobby : experimenting</li>
-  </ul>
-  <h3>Biography:</h3>
-  <p>Wataru Yuga is the eldest sibling of the Yuga family, and the older brother of Miruka Yuga and Natsugo Yuga. He is known as a genius and high-achieving child, particularly in the fields of physics and chemistry. Wataru also harbored a dream of becoming a police officer. Even though this ambition differed from his academic achievements, Wataru felt that he needed to become a cop not just to look for a job or to appear cool in the eyes of society. He wanted to change the world's definition of justice, which, in his view, did not reflect true justice at the time.
-Wataru had no intention of becoming a judge. To him, judges could never truly see justice. Evidence can be fabricated, and perpetrators can hire lawyers. Crimes can be erased, and goodness can be trampled upon. Meanwhile, a police officer can dive straight into the field, seek out direct evidence, uncover the truth, and find the motives behind every criminal act. That is what justice means.
-For Wataru, the ideal justice is equalizing justice. Someone can do evil, but someone can also become good. That is how humans and true justice actually work.</p>
-  <p>Wataru later passed down all of these ideologies to Natsugo, right before leaving to attend university in Russia. However, midway through the journey, the plane he was on suffered a technical failure, causing it to crash.
-Wataru managed to get out, but he was in critical condition. Just when he thought he was going to die, Wataru was saved by Kamiyo, who then healed him using a spiritual restoration technique. Wataru felt confused and curious about how Kamiyo managed to do it. Eventually, Kamiyo explained his spiritual powers to Wataru, including his role in eradicating wild demons.
-Hearing all this information, Wataru realized that the world held a spiritual secret. Because of this, Wataru intended to form a small organization called the Soul Association.
-As time went on, Wataru gathered many people willing to work with him until, eventually, the Soul Association became an association dedicated to handling wild demons and other spiritual phenomena.
-Wataru became well-known as a genius leader—calculative and capable of constantly learning from his mistakes. He may have failed to become a police officer, but he succeeded in creating a massive organization, gathering talented individuals, and contributing to all of their struggles.</p>
-  <p><i>"Knowledge without power is vulnerable to destruction, but power without knowledge cannot be controlled."</i></p>
-</section>
 
 <section id="world">
   <h1></h1>
