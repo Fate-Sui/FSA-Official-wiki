@@ -1,5 +1,3 @@
-
-
 <h1>Fade; Soul Apocalypse</h1>
 
 <nav>
