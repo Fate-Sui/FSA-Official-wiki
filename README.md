@@ -1,3 +1,8 @@
+<head>
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+
 <h1>Fade; Soul Apocalypse</h1>
 
 <nav>
