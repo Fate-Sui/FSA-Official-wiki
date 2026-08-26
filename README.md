@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="icon" type="image/png" href="FSA website logo">
+  <link rel="stylesheet" href="style.css">
+</head>
+</html>
+
 <h1>Fade; Soul Apocalypse</h1>
 
 <nav>
