@@ -4,8 +4,7 @@
 <head>
   <meta charset="UTF-8">
 
-  <link rel="icon" type="image/png" href="FSA website logo.png">
-  </head>
+  <link rel="icon" type="image/png" href="FSA website logo.png"></head>
  
 
   
