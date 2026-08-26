@@ -225,7 +225,7 @@ Compared to Marshall, who inherited Azathoth's essence of death, Natsugo inherit
     <li>Date of birth : 7 March</li>
     <li>Hobby : experimenting</li>
   </ul>
-  <h3>Biography</h3>
+  <h3>Biography:</h3>
   <p>Wataru Yuga is the eldest sibling of the Yuga family, and the older brother of Miruka Yuga and Natsugo Yuga. He is known as a genius and high-achieving child, particularly in the fields of physics and chemistry. Wataru also harbored a dream of becoming a police officer. Even though this ambition differed from his academic achievements, Wataru felt that he needed to become a cop not just to look for a job or to appear cool in the eyes of society. He wanted to change the world's definition of justice, which, in his view, did not reflect true justice at the time.
 Wataru had no intention of becoming a judge. To him, judges could never truly see justice. Evidence can be fabricated, and perpetrators can hire lawyers. Crimes can be erased, and goodness can be trampled upon. Meanwhile, a police officer can dive straight into the field, seek out direct evidence, uncover the truth, and find the motives behind every criminal act. That is what justice means.
 For Wataru, the ideal justice is equalizing justice. Someone can do evil, but someone can also become good. That is how humans and true justice actually work.</p>
