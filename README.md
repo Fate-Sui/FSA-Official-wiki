@@ -74,6 +74,8 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
 
   <p>There is a concept called <strong>Field</strong>. Field is a concept where a Spirit Tamer or pure spirit creates a dimension where they can manipulate the environment and its contents. However, Fields are typically identified with a type of spirit. For example, an angel's Field is associated with a bright, hopeful environment, usually symbolized by the sky. Meanwhile, the devil's Field is symbolized as a sea so deep that it feels endless, as a form of despair, destruction, and darkness.</p>
   <p>There's an absolute rule: spirits of the same kind cannot kill each other. While they can still injure each other, regeneration can eventually heal the wounds. And the situation would be different, for example, if an angel managed to inflict a slash wound on a demon, the wound wouldn't heal quickly. And it would take quite a long time to completely heal the wound.</p>
+  
+<p>Wild demons cannot be attacked with ordinary objects. They can only be harmed by objects imbued with spiritual energy. Alternatively, they can be harmed with attacks related to electromagnetic waves.</p>
 
   <p>There are several levels of evolution and transformation that a Spirit Tamer can undergo:</p>
   <h3>Spirit Buff</h3>
@@ -176,6 +178,16 @@ Marshall is known for being a very cold girl, often showing no mercy to her enem
 
 Marshall's ultimate feat was when she reached the point where she had transcended his existence, at which point she had completely become the personification of the end. The end of all life, the end of all stories. Erasing or ending an existence, even more abstract. Although she is not as complex as Azathoth. Making her have very high abilities compared to others.</p>
     <p><i>"I'm not your enemy, I am your END."</i></p>
+ <h3>Power, Ability, Stats:</h3>
+    <p>Marshall can move 9 billion times faster than the speed of light. Her punches and kicks can reach a force of 198,900 tons. Marshall have extreme endurance (able to survive various phenomena of death, immune to powerful illusions, even illusions that can damage the brain and mental, multidimensional destruction, and changes in space-time)
+
+Despite having the essence of death, Marshall actually uses her demonic essence more often, although not as dominantly as Natsugo. She fights with a weapon created by the Soul Association—the Tempest Weapon. She wields two weapons, the Tempest Lancer and the Tempest Lazer. The Tempest weapon itself is created from the reaction of resonance and electromagnetic waves. It is perfect for fighting wild demons without having to manifest spiritual energy into an object. Marshall has a fighting style like an assassin, agile, fast, and always locks on to the target perfectly.</p>
+    <p>Marshall can also use the Death Essence ability. An ability that allows Marshall to kill, end, and erase anything absolutely. Even something beyond the duality of life and death will still disappear at Marshall's will. No matter how high the opponent's dimensional level is, how strong they are, even if they are Terralords, death essence will end them.
+
+Marshall's greatest potential was seen when she once survived the infinite void unleashed by Morgan. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marshall was still able to survive, even tearing the void apart.
+
+Marshall was also chosen as the wielder and vessel of the <strong>Endless Void Core</strong>, the core of the entire concept of chaos that exists throughout the world. Allowing Marshall to create all sorts of havoc across the universe. However, Marshall won't use it for that.</p>
+    
   </section>
   
 <section id="natsugo yuga">
@@ -235,6 +247,47 @@ Wataru became well-known as a genius leader—calculative and capable of constan
   <p><i>"Knowledge without power is vulnerable to destruction, but power without knowledge cannot be controlled."</i></p>
 </section>
 
+<section id="gatos maruka">
+  <h1></h1>
+    <h2>Gatos Maruka</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : angel, pure spirit, terralord</li>
+    <li>Age : 700.000</li>
+    <li>Sex : male, genderless</li>
+    <lI>Tall : 200 cm</lI>
+    <li>Weight : unknown</li>
+    <li>Date of birth : unknown</li>
+    <li>Hobby : unknown</li>
+  </ul>
+<h3>Bigraphy:</h3>
+  <p>Gatos Maruka, the angel king acknowledged as the strongest angel in history. Under Gatos's rule, the angels even lived much more harmoniously, and wars began to happen less frequently.
+He is the son of the Terralord, the creator of their universe.
+This wasn't without reason; it was all because the demons confessed to being terrified of and traumatized by Gatos. Gatos wasn't just their nightmare—Gatos was the embodiment of their suffering. Gatos's hatred for demons and his lack of mercy left the demons completely helpless. In fact, Gatos actually wanted to destroy the demonic realm, including its entire order. But of course, he couldn't do that, because demons are a balancing force. If this world lacked demons, darkness, and chaos, something far worse than chaos would occur.
+Gatos earned the title "The Lord of Seraphim" and was recognized by both demons and angels alike, possessing a power and majesty that no other angel king possessed. On top of that, he is the son of the Terralord, who is their god.
+One day, Gatos went through his lowest point after his close friend, Yura, was killed for trying to make a deal and negotiate with the demons—even though Gatos had forbidden Yura from doing so. Yura's death truly changed something inside Gatos. He already hated demons, but after Yura's death, that hatred grew even worse. Eventually, something that should never exist within an angel began to grow</p>
+
+  <p><strong>Revenge</strong></p>
+  <p>Gatos went to the demonic realm, including hell, entirely alone. He wiped out the soldiers and even demons who weren't fighters. Everything was slaughtered, leaving no survivors. Gatos then reached the deepest part of the demonic realm, where he met the demon king, Diablo. Even though his opponent was a demon king, Diablo could do nothing against Gatos. In the end, Diablo begged Gatos for mercy, but Gatos refused his forgiveness. Now, he intended to deal a severe punishment to the demons. Gatos finally used one of his abilities, Calsmorōs—a technique that erases the existence of everything around Gatos. Because Gatos was in the demonic environment, the things that vanished were every single demon in the demonic realm.
+Yet the moment Gatos stepped back outside, he witnessed a completely ruined landscape. The buildings and the presence of the demons had been destroyed and could no longer be sensed. That was when Gatos realized the gravity of his over-the-line actions. He had slaughtered the demons simply because of the death of a single person. To him, that made him entirely unworthy of being an angel king. Even though the demons could rapidly recover their population, he had still crossed the line of what an angel should be.</p>
+
+  <p>When Gatos returned to the angelic realm, he did not return with a sense of satisfaction. To him, what he had done was behavior far worse than that of a demon.
+Despite being immensely powerful—so much so that after the Terralord vanished, Gatos became his world's representative, joining other Terralords in the Observer Realm—he felt deeply unworthy of being a glorified king. And right then, Gatos felt that he truly was no longer an angel.
+But then, he met the new demon king, Azathoth Darkway. Azathoth himself also felt like he wasn't entirely a demon, and the reason Azathoth wanted to meet Gatos wasn't for revenge, but to put an end to the endless war between light and darkness. All of this was so that human civilization could build itself up without repeated destruction. Human civilization had been delayed for millions of years due to the war between demons and angels. Therefore, they had to take a major step.
+Because the political climate was worsening, the demons intended to take revenge by assassinating Gatos, while the angels would try to protect him. This meant another war was bound to happen.
+Just before the war broke out, Gatos and Azathoth sealed all the demons and angels deep within their respective realms, locking them away tightly so that no one could ever get out.
+Ultimately, Azathoth divided himself into reincarnated essences, which would then choose two individuals to serve as the vessels for his reincarnation.
+As for Gatos, his current role would be that of an observer, because he cannot arbitrarily visit the mortal realm. His existence would cause that realm to shatter—not because it couldn't be controlled, but because of an existential anomaly that simply cannot be tolerated.
+Therefore, the solution was for Gatos to create new angels made from a small fraction of his essence: Jezz and Natalia. Because Jezz and Natalia's essences are not as immense as Gatos's, they are able to exist and live in the mortal realm for as long as they want.
+As time went on, Gatos began to tolerate demons. He didn't hate them as intensely anymore; after getting to know Azathoth, Gatos felt that not all demons were worthy of his hatred—even though his existence, backed by Omega Divine, could render demons entirely meaningless.</p>
+  
+  <p><i>"Not all light is bright, and not all darkness is dark."</i></p>
+  <h3>Power, Ability, Stats:</h3>
+  <p>Gatos is one of the strongest characters in FSA. His speed is recorded as limitless—unmeasurable. The force of his punches and kicks can reach 8 billion tons. Gatos has absurd durability (able to survive and remain relaxed in extra-dimensional destruction in periodic, immune to existence erasure, soul erasure, and identity erasure. Immune to changes in space and time. Absolute immunity to attacks. Immune to every ways to death.) Gatos has never been shown fighting seriously. He's never used more than 1% of his power against anyone. So his potential remains a mystery. </p>
+  <p>Gatos fights using the element of light. But not just any light. His light is metaphysical, penetrating all space-time, reality, and all dimensional structures. Gatos has an eye called the <strong>Eye of Divinity</strong>. Eyes that can burn anything they see until nothing remains, will continue to burn until the point that something can never truly be created. In addition, Gatos has a sword called the <strong>Sword of Radiant</strong>. This sword is the brightest sword in the world. It's so bright that no one can even see its form due to its glare. Its light can even reach other worlds.
+Gatos have <strong>Omega Divine</strong>. Omega Divine itself is a radar-like ability that detects and executes anything related to demons—whether it's their identity, name, title, or pure bloodline. When any demon nearby enters the radar's range, Omega Divine immediately executes them by weakening everything the demon possesses until it reaches an absolute state of infinity zero, which can be weakened or seized by Gatos. It completely ignores any form of defense the demon possesses, even if it is absolute; Omega Divine pays no heed to it. Even if they possess a higher status and dimension than Gatos, Omega Divine reduces them to mere ants in the presence of Gatos, who shines like the sun.</p>
+</section>
+
 <section id="world">
   <h1></h1>
   <h1>World of FSA</h1>
@@ -268,5 +321,9 @@ The Japanese branch itself has two generations. The second generation included M
     <p>Literally just a single point (.). There is nothing except a dot on a canvas. No one can comprehend what The Point truly is. Even gods equipped with omniscience cannot interpret it. It is regarded as the ultimate peak that even transcends metaphysical meaning. Even if they have already reached such an absurd level of power, they still will never be able to reach or understand that place.</p>
     
   </ul>
+<p>Every layer of the world is interconnected through the concept of <strong>Sky layering,</strong> which Gatos uses most frequently. Sky layering itself is a concept where a character can exist at a higher level of reality. For example, in the first sky, Gatos's existence is four-dimensional; moving up to the second sky, his existence rises again to the 5th/6th dimension. Gatos has been shown capable of reaching up to the fifth sky, which touches the 100th dimension. With that many sky layers, Gatos can already connect with the Millennium and other universes.</p>
+
+  <p>However, the skies actually don't stop at just 5; they are boundless and transcendental in nature. Gatos himself has already reached an extremely high sky layer. The higher the sky level, the more of an <strong>error</strong> it creates for those residing in the lower skies. Error here refers to a dimensional and reality tier gap that is far too vast.
+The higher someone's sky layer, the higher their dimensional existence. Gatos once reached a sky layer high enough to touch the Observer Realm. The exact number of sky layers is unknown, but what is certain is that it exceeds 9 quintillion.</p>
 
 </section>
