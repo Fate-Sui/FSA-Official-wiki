@@ -75,8 +75,10 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
   <p>There is a concept called <strong>Field</strong>. Field is a concept where a Spirit Tamer or pure spirit creates a dimension where they can manipulate the environment and its contents. However, Fields are typically identified with a type of spirit. For example, an angel's Field is associated with a bright, hopeful environment, usually symbolized by the sky. Meanwhile, the devil's Field is symbolized as a sea so deep that it feels endless, as a form of despair, destruction, and darkness.</p>
   <p>There's an absolute rule: spirits of the same kind cannot kill each other. While they can still injure each other, regeneration can eventually heal the wounds. And the situation would be different, for example, if an angel managed to inflict a slash wound on a demon, the wound wouldn't heal quickly. And it would take quite a long time to completely heal the wound.</p>
   
-<p>Wild demons cannot be attacked with ordinary objects. They can only be harmed by objects imbued with spiritual energy. Alternatively, they can be harmed with attacks related to electromagnetic waves.</p>
-
+<h2>Wild Demon</h2>
+  <p>Wild demons is born and created from human's bad behavior/sins. They will appear in places filled with human bad behavior.</p>
+  <p>Wild demons cannot be attacked with ordinary objects. They can only be harmed by objects imbued with spiritual energy. Alternatively, they can be harmed with attacks related to electromagnetic waves.</p>
+  <p>Wild demons are divided into five tiers: <strong>Tier C, Tier B, Tier A, Tier S, and Tier SS</strong>. The higher the tier, the stronger the wild demon's behavior and influence on reality and spacetime.</p>
   <p>There are several levels of evolution and transformation that a Spirit Tamer can undergo:</p>
   <h3>Spirit Buff</h3>
   <p>Spirit Buff is a mode where a Spirit Tamer can increase their spiritual energy capacity, thus increasing around 10% of their endurance and 20% of the energy they can release from their original form.</p>
@@ -187,6 +189,7 @@ Despite having the essence of death, Marshall actually uses her demonic essence 
 Marshall's greatest potential was seen when she once survived the infinite void unleashed by Morgan. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marshall was still able to survive, even tearing the void apart.
 
 Marshall was also chosen as the wielder and vessel of the <strong>Endless Void Core</strong>, the core of the entire concept of chaos that exists throughout the world. Allowing Marshall to create all sorts of havoc across the universe. However, Marshall won't use it for that.</p>
+<p>Up to this point, Marshall has been able to master Spirition Max mode which focuses on the death essence.</p>
     
   </section>
   
@@ -221,6 +224,16 @@ Compared to Marshall, who inherited Azathoth's essence of death, Natsugo inherit
 
 <p><i>"I am Natsugo Yuga! I will become the number one police officer in the world and change the meaning of justice!"</i></p>
 </section>
+<h3>Power, Ability, Stats:</h3>
+<p>Despite not inheriting most of Azathoth's Death Essence, Natsugo is still a monster compared to other characters. It is said that its speed can reach 199 trillion times faster than the speed of light. With the power of punches and kicks that have the potential to reach infinity.
+
+Natsugo himself is very resistant and immune to many things. Immune to illusions, immune to death (via death essence), immune to reality warping, immune to changes in space and time, immune to changes in history, immune from void manipulation, and immune to extradimensional destruction.
+
+Natsugo fights primarily by relying on his incredibly tough demonic physique. However, he also relies on his revolver, which he channels with spiritual energy. It's very effective at suppressing opponents from afar, or he uses it to keep his distance.</p>
+
+<p>Natsugo also possesses a weapon device called the <strong>Holylight Saber</strong>, a sword created by Wataru. Requires light energy from angels, and later Natsugo can form a sword of light that can slash and inflict fatal wounds on demons. And this device can only produce a light sword if it has light energy from an angel inside it. 
+
+Natsugo is known to have mastered Spirition mode, up to Spirition Max. And while he's not as skilled as Marshall in terms of complex ability, Natsugo has a distinct advantage when it comes to brutal combat.</p>
 
 <section id="wataru yuga">
   <h1></h1>
@@ -246,6 +259,11 @@ As time went on, Wataru gathered many people willing to work with him until, eve
 Wataru became well-known as a genius leader—calculative and capable of constantly learning from his mistakes. He may have failed to become a police officer, but he succeeded in creating a massive organization, gathering talented individuals, and contributing to all of their struggles.</p>
   <p><i>"Knowledge without power is vulnerable to destruction, but power without knowledge cannot be controlled."</i></p>
 </section>
+<h3>Power, Ability, Stats:</h3>
+<p>Although not the strongest, Wataru has very useful talents and abilities. Wataru is known to manifest his spiritual powers into a series of weapons he created, the Tempest Weapons. These weapons can generate electromagnetic waves.</p>
+<p>Wataru himself can reach speeds of up to Mach 50, with the force of punches and kicks up to 322 tons.
+
+Wataru rarely appears in combat, even though he has mastered Spirition mode which allows him to put up a fight against stronger opponents.</p>
 
 <section id="gatos maruka">
   <h1></h1>
@@ -286,6 +304,46 @@ As time went on, Gatos began to tolerate demons. He didn't hate them as intensel
   <p>Gatos is one of the strongest characters in FSA. His speed is recorded as limitless—unmeasurable. The force of his punches and kicks can reach 8 billion tons. Gatos has absurd durability (able to survive and remain relaxed in extra-dimensional destruction in periodic, immune to existence erasure, soul erasure, and identity erasure. Immune to changes in space and time. Absolute immunity to attacks. Immune to every ways to death.) Gatos has never been shown fighting seriously. He's never used more than 1% of his power against anyone. So his potential remains a mystery. </p>
   <p>Gatos fights using the element of light. But not just any light. His light is metaphysical, penetrating all space-time, reality, and all dimensional structures. Gatos has an eye called the <strong>Eye of Divinity</strong>. Eyes that can burn anything they see until nothing remains, will continue to burn until the point that something can never truly be created. In addition, Gatos has a sword called the <strong>Sword of Radiant</strong>. This sword is the brightest sword in the world. It's so bright that no one can even see its form due to its glare. Its light can even reach other worlds.
 Gatos have <strong>Omega Divine</strong>. Omega Divine itself is a radar-like ability that detects and executes anything related to demons—whether it's their identity, name, title, or pure bloodline. When any demon nearby enters the radar's range, Omega Divine immediately executes them by weakening everything the demon possesses until it reaches an absolute state of infinity zero, which can be weakened or seized by Gatos. It completely ignores any form of defense the demon possesses, even if it is absolute; Omega Divine pays no heed to it. Even if they possess a higher status and dimension than Gatos, Omega Divine reduces them to mere ants in the presence of Gatos, who shines like the sun.</p>
+<P>Gatos himself has mastered Revelation mode, and he is the only angel who can achieve this form</P>
+</section>
+
+<section id="azathoth darkway">
+  <h1></h1>
+    <h2>Azathoth Darkway</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : demon, Outertity, the End, Death</li>
+    <li>Age : Ageless</li>
+    <li>Sex : male, genderless</li>
+    <lI>Tall : 198 cm</lI>
+    <li>Weight : unknown</li>
+    <li>Date of birth : unknown</li>
+    <li>Hobby : consuming universes</li>
+  </ul>
+  
+  <h3>Biography:</h3>
+  <p>Azathoth Darkway—originally, he was not a demon at all. He was an <strong>Outertity</strong>, an entity existing beyond all concepts, considered the antithesis of the Terralord. If the Terralord is depicted with a high-dimensional world full of complex creation concepts, the Outertity symbolizes emptiness, abstraction, non-conceptuality, and the end. An end that serves as the boundary of a form of story, concept, and idea. Unbound by spacetime, reality, life, or death. Only absolute void.
+In the past, Azathoth was actually a blind and mindless entity. His sole reason for existing was to consume worlds. When he slept, he would not exist, but the moment he awoke, he existed only to continuously devour universes. And that had been his routine for an unimaginably long time. But eventually, Azathoth and other Outertity began to gain consciousness and intelligence. Because of this evolution, Azathoth grew bored with his routine, and the other Outertity felt the same way. Finally, after bidding farewell to his younger sibling, Yog-Sothoth, Azathoth decided to reincarnate as a demon in a certain world. This marked the first experience of an abstract, world-devouring entity living within a world it would normally consume.</p>
+  <p>Azathoth lived as a demon boy leading the life of an ordinary resident. But upon learning about the title of demon king, Azathoth instantly became curious.
+He then nominated himself to become the next demon king, replacing Diablo should he choose to step down or die. During the tests, Azathoth was terrifying. With just a glance and his sheer will, he could kill his opponents; they would collapse, then disintegrate and vanish. Azathoth later explained that demons didn't merely die or have their existence erased—they were conceptually erased from history and stories, much like a journey forced to a halt and brought to an end by Azathoth's will.
+Amazed, Azathoth passed and was ready to become the next demon king, effortlessly completing tests that other demons found cruelly difficult. Upon stepping outside, Azathoth encountered a bruised and visibly disappointed little demon girl. She was Catelyne, and it was revealed that Catelyne had actually wanted to run for demon king/queen as well, but had failed even the first test. However, upon hearing that Azathoth had effortlessly passed even from the first test, Catelyne grew furious and resentful, attempting to attack him. But before she could strike, Catelyne caught sight of Azathoth's chilling, terrifying aura. It was as if she were looking at the Grim Reaper. That sight filled Catelyne with fear, anxiety, trembling, and despair. She ultimately prostrated herself and apologized to Azathoth, while Azathoth didn't do a thing. Pitying her, Azathoth offered Catelyne a position: he would make her his right-hand person. Hearing this, Catelyne was initially hesitant, but ultimately accepted the offer with joy.
+Time went on until the incident in the northern demonic realm caused by Gatos. With the news of Diablo's death as well, Azathoth was finally appointed as the demon king. One day, he came across a historical photo from the war between demons and angels. Instead of focusing on the demons or angels, Azathoth's attention was drawn to the buildings and a form of life different from either race. Azathoth then learned that they were humans and their civilization. He also discovered that human civilization was constantly being destroyed by the wars in the spiritual realm, shattering all the civilization and progress they had built and forcing them to start over from scratch time and time again.
+In the end, Azathoth grew increasingly curious about humans. He went to meet Gatos—not for revenge, but to propose putting an end to this endless war so that human civilization could continue to develop without obstacles caused by demons and angels. Ultimately, Gatos agreed. By chanting a grand technique, they sealed the demons and angels away in the deepest parts of their respective realms.</p>
+  <p>Following that, Azathoth planned to split himself into two essences: the essence of death and the essence of demons. The reason for dividing them was because a human who received both essences simultaneously would not be able to sustain them and would lose control. Those two essences then chose two individuals: Marshall D. Roman, who inherited the essence of death, and Natsugo Yuga, who inherited the demonic essence.
+Once Azathoth awakened into the modern era of humanity through the union of Marshall and Natsugo, he was finally able to witness firsthand an immensely advanced human civilization. Through Marshall and Natsugo as well, Azathoth could experience diverse human lives. He was deeply satisfied to see humanity thriving.
+From a being that was once mindless, blind, and capable only of consuming universes, he had now become the most crucial figure in the progress of human civilization.</p>
+  <p><i>"You cannot run from the End."</i></p>
+
+  <h3>Power, Ability, Stats:</h3>
+  <p>Azathoth has the ability to kill, erase, negate, and even reconstruct absolutely anything. It has an effect on something that is even abstract, conceptual, absolute, and metaphysical. And because of that, all of Azathoth's abilities are closely associated with the themes of ending, erasure, and emptiness.
+
+Azathoth can reach speeds of infinity, even absolute infinity. The power of his punches and kicks is immeasurable. Azathoth himself is immune in all aspects, including changing history, space-time, reality warping, and even plot manipulation. And Azathoth's level of immortality far surpassed the concept of immortality itself. 
+
+Azathoth often carries a large black sword called the <strong>Alpha of The End</strong>. Its name is a metaphor, this sword can abstractly and absolutely change the conceptual structure, and how something abstract can influence. This sword doesn't just destroy everything without limits. It instantly cuts through story lines, forcing them to their end.</p>
+  <p>Azathoth can also use his <strong>OverEnd</strong> abilities with just a gesture, such as a gaze, a will, or a thought. OverEnd itself isn't just an ability that instantly kills a target. It erases everything the target possesses, such as their memories, history, and story.
+
+Before his reincarnation as a demon, Azathoth was an abstract, irregular entity. Though blind and mindless, he had one reason for existing: to consume the universe. Although Azathoth is never shown consuming the universe anymore, he could still do so if he wanted to.</p>
+  <p>Azathoth himself has mastered the Resurrection form. And he can actually still return to his abstract form.</p>
 </section>
 
 <section id="world">
