@@ -66,13 +66,13 @@ As time continued to flow, humans began to stray further from truth, justice, an
   <h1></h1>
   <h1>System</h1>
   <h2>Spirit Tamer</h2>
-  <p>Spirit Tamers are a group of individuals capable of more explicit control over spiritual energy. They can manifest it in various forms, including defense and attack. A Spirit Tamer must go through a special ritual called Spiritual Pressure. A ritual where one makes a contract with a chosen spirit, often an angel. And because the context is angelic, a person must have faith and a pure heart. Otherwise, the angels will not want to make a contract.
+  <p>Spirit Tamers are a group of individuals capable of more explicit control over spiritual energy. They can manifest it in various forms, including defense and attack. A Spirit Tamer must go through a special ritual called <strong>Spiritual Compress</strong>. A ritual where one makes a contract with a chosen spirit, often an angel. And because the context is angelic, a person must have faith and a pure heart. Otherwise, the angels will not want to make a contract.
 
 Moreover, the ritual process is very painful, where the soul of the person performing this ritual will be compressed, and will be united with the spirit of an angel. There's a chance they might fail due to incompetence, and some might even die. But if they survive and survive, they officially become Spirit Tamers.</p>
 <h2>Spiritual Energy</h2>
   <p>Spiritual energy is the source of power for Spirit Tamers. This energy is formed from various materials found throughout the universe. Therefore, Spirit Tamers must be able to control and manifest their spiritual energy more controlled and carefully. Because if any Spirit Tamer fails to control their powers, the ecosystem of the universe will become uncontrollable and most likely... Collapse.</p>
 
-  <p>There is a concept called <strong>Field</strong>. Field is a concept where a Spirit Tamer or pure spirit creates a dimension where they can manipulate the environment and its contents. However, Fields are typically identified with a type of spirit. For example, an angel's Field is associated with a bright, hopeful environment, usually symbolized by the sky. Meanwhile, the devil's Field is symbolized as a sea so deep that it feels endless, as a form of despair, destruction, and darkness.</p>
+  <p>There is a concept called <strong>Field</strong>. Field is a concept where a Spirit Tamer or pure spirit creates a dimension where they can manipulate the environment and its contents. However, Fields are typically identified with a type of spirit. For example, an angel's Field is associated with a bright, hopeful environment, usually symbolized by the sky. Meanwhile, the demon's Field is symbolized as a sea so deep that it feels endless, as a form of despair, destruction, and darkness.</p>
   <p>There's an absolute rule: spirits of the same kind cannot kill each other. While they can still injure each other, regeneration can eventually heal the wounds. And the situation would be different, for example, if an angel managed to inflict a slash wound on a demon, the wound wouldn't heal quickly. And it would take quite a long time to completely heal the wound.</p>
   
 <h2>Wild Demon</h2>
@@ -344,6 +344,49 @@ Azathoth often carries a large black sword called the <strong>Alpha of The End</
 
 Before his reincarnation as a demon, Azathoth was an abstract, irregular entity. Though blind and mindless, he had one reason for existing: to consume the universe. Although Azathoth is never shown consuming the universe anymore, he could still do so if he wanted to.</p>
   <p>Azathoth himself has mastered the Resurrection form. And he can actually still return to his abstract form.</p>
+</section>
+
+<section id="razor">
+  <h1></h1>
+    <h2>Razor</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : human, spirit tamer</li>
+    <li>Age : 27</li>
+    <li>Sex : male</li>
+    <lI>Tall : 184 cm</lI>
+    <li>Weight : 68 kg</li>
+    <li>Date of birth : 19 October</li>
+    <li>Hobby : barbering</li>
+  </ul>
+
+  <h3>Biography:</h3>
+  <p>Razor was part of the first generation Soul Association force squad, along with Louis, Kevin, and Amanda. He became a Spirit Tamer and joined the Soul Association out of his desire to protect his younger brother, Tenny. After their parents were killed by wild demons.
+
+Initially Razor was not at all interested in spiritual matters, he was someone who really wanted to be a barber.Razor is obsessed with making people look better and more confident after a shave. For him, hairstyle is the key to confidence. Ironically, Razor himself lacks self-confidence. He often acts recklessly and acts foolishly. Tenny even makes fun of him.
+
+After their parents' death, Razor sets out to become a Spirit Tamer. But it's not just Razor, Tenny also wants to become a Spirit Tamer. However, when undergoing the Spiritual Compress, Tenny was nearly killed because his body couldn't withstand the compression. In the end, Tenny failed to become a Spirit Tamer. Razor succeeded in becoming a Spirit Tamer in one try.
+
+This made Tenny jealous of his brother. In the end, he went home first. As Razor was about to arrive at his house, he saw Tenny, his brother, who had been killed by wild demon. His body was separated into two parts. That moment was a huge blow for Razor. And from then on, Razor held a deep grudge against the wild demons.
+
+After undergoing routine training and missions, Razor continues to vent his anger on the wild demons he encounters. Until Wataru finally realizes that emotions filled with revenge will not solve anything. And that would only make the angel inside Razor also blinded by revenge.
+
+Eventually, Razor understood that, and he began to become a more controlled Spirit Tamer.</p>
+
+  <p>Until one day, he discovers the truth that his younger brother is still alive—or rather, has become a demon. Tenny herself was delighted with the power and form she had acquired. Even though it was a dark and evil power, Tenny was thrilled to have become so powerful. And that made Razor feel guilty, he thought Tenny chose darkness to become stronger because he failed to have light.
+
+And they finally fought. Razor was naturally very hesitant to fight, let alone kill his own brother. However, Tenny herself said that Razor must be capable and brave enough to kill him. Tenny believes that her brother should have changed, become more mature, and therefore, he doesn't want to see Razor being careless and insecure. Because that would betray his own philosophy.
+
+And in the end, Razor agreed to kill Tenny. Tenny died in a happy state, after his brother managed to get through his bad times. Become a better person, be confident, and no longer hesitate to make decisions.
+
+As time went on, Tenny's death completely changed Razor's life. He had completely changed, becoming a much better person, better prepared to face obstacles.</p>
+
+  <h3>Power, Ability, Stats:</h3>
+  <p>Razor manifests his spiritual energy into a comb, allowing it to function like a dagger and a boomerang. Its sharpness alone is enough to cut through a building.
+
+Razor has a speed that can reach Mach 900,000. Razor himself has an aggressive, agile, and flexible fighting style. The comb itself can also be a weapon that can trouble the opponent because of its very high rotation speed and sharpness. 
+
+Razor himself has mastered Spirition mode, turning his comb into a long sword, increasing all of Razor's stats significantly.</p>
 </section>
 
 <section id="world">
