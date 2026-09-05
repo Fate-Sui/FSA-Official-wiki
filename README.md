@@ -389,6 +389,61 @@ Razor has a speed that can reach Mach 900,000. Razor himself has an aggressive, 
 Razor himself has mastered Spirition mode, turning his comb into a long sword, increasing all of Razor's stats significantly.</p>
 </section>
 
+<section id="tartarus">
+  <h1></h1>
+    <h2>Tartarus</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : fallen angel</li>
+    <li>Age : unknown</li>
+    <li>Sex : male, genderless</li>
+    <lI>Tall : 207 cm</lI>
+    <li>Weight : unknown</li>
+    <li>Date of birth : unknown</li>
+    <li>Hobby : unknown</li>
+  </ul>
+  <h3>Biography:</h3>
+  <P>Long ago, in a village within the angelic realm, a horde of demonic forces launched an invasion. At that time, an expectant mother was about to give birth. However, because the concept of "giving birth" differs between spirits and humans, spiritual beings must travel to a temple and deliver their babies under the will of the Ancient of Light/Darkness. Tragically, the baby's father was killed, leaving the mother with no choice but to struggle and flee from the pursuing demons.
+
+The mother eventually reached a temple, but, unbeknownst to her, it belonged to the demons. She pleaded for a blessing and assistance to safely deliver her child, but just as the baby descended from the sky, the mother was killed by the demons trailing her. Consequently, the demons seized the infant and carried him away to the borderlands of hell.</P>
+  <p>Years later, the demon ruler of the southern demon realm named the baby Tartarus, and he was raised there. However, he was treated poorly; his appearance, which differed from most demons, caused him to be constantly shunned and ostracized by the other demon children. Yet... there was another reason. Tartarus possessed an absurd power: mere physical contact with anyone, even a demon, would instantly cause their existence to vanish. This was completely unnatural, as there is an absolute rule that demons cannot obliterate fellow demons. It was because Tartarus carried angelic genes.
+
+One day, he was challenged by the demon lord because he was considered a public nuisance. As a result, Tartarus had to fight the very person who had raised him, even though that upbringing had hardly been tender. The outcome? Tartarus won with ease. This only made him even more hated by everyone, and ultimately, Tartarus was banished from the region.</p>
+
+  <p>Now, he journeyed far away, all alone... starving... Tartarus had never known affection or familial warmth. Raised harshly, he grew up into a child despised by others and completely hollow inside. One day, he arrived at an orphanage, but... before he could even step inside, he collapsed from exhaustion. Fortunately, the caretaker living there immediately took Tartarus in and nursed him back to health. Tartarus woke up on a comfortable wooden bed, and the caretaker, whose name was known as Merry, immediately gave him water and food. At that orphanage, Tartarus saw many children without parents who had died in the wars. Although they were all demons—creatures known as vile and despicable—they were still far too young to bear that burden. And from that day on, Tartarus felt an unusual sensation. He experienced affection and love; among those friends, he felt as though he finally had a family. Furthermore, knowing that he possessed the power to obliterate the existence of anyone he touched, he began wearing thick gloves and heavy cloths that covered most of his body.
+
+Aside from playing, he sometimes trained together with all his friends to become strong demons. Among all the children, Tartarus was the one Merry cared for the most. Tartarus once asked, what is a family? Why does a family feel so warm? Merry answered, <i>"As a family... we demons are not supposed to know affection, but I show affection to those who are still innocent and cannot yet comprehend the harsh reality of the outside world. Family... it is the driving desire within me to protect all demons. To me, they are my family, and even if one day I am forgotten by them, I will still consider them my family."</i> For Merry, this was a very rare occurrence; no demon had ever wanted to talk to her about family. But then again, Tartarus was actually an angel.
+
+From that conversation, Tartarus began to form an important philosophy about family. However, their happiness did not last long. A few days later, a blindingly bright light suddenly illuminated the world. When the light faded, all the demons around Tartarus vanished without a trace. Once again, he was all alone... Without any warning or farewell, his entire family had disappeared. He later learned that the demons and even humans had been sealed away by the demon king and angel king working in alliance. Feeling that his precious family had been stolen away, Tartarus grew obsessed with freeing all demons and making them his family once again. He declared this with tears streaming down his face—once more, an extremely unnatural thing for a demon to do, but of course, that was because he was an angel.
+
+After that, Tartarus lived alone for hundreds, even thousands of years. Wandering aimlessly until he eventually ended up in the human world.</p>
+
+  <p>During that time, he always wore fully covered clothing. In the human world, he intended to deepen his understanding of the meaning of family. He met many people, tried to do good deeds, and built familial bonds. However, because they were humans, their lifespans were short. Meet someone > help them > forge a bond > left behind by death. This cycle repeated for hundreds and thousands of years. Throughout this long journey, Tartarus began to forget about demons and that past tragedy.
+
+One day, however, Tartarus became a servant in a noble household and grew very close to the youngest child, named Lia. Lia constantly talked about her joy as a little princess who was showered with attention. To her, she was the brightest star among all the stars in the universe. Yet despite that, she wasn't arrogant; rather, it was precisely because of this that Lia cherished her family even more. Once again, Tartarus acquired a new philosophy about family. Aside from Lia, Tartarus was also very close to the head of the household.
+
+Then, a tragic incident struck. One day, Lia had just returned from a bookstore and accidentally mentioned the word <strong>DEMON</strong> from the title of a book she bought: My Demon and His Love Journey. That single word proved to be immensely sensitive for Tartarus; his past trauma resurfaced, and unconsciously, he lost control and went berserk, slaughtering all the family members and guards. The last family member he killed was Lia.
+
+Tartarus regained his control when the rain began to fall and he saw the wrecked house and scattered corpses. He approached Lia's body and hugged her. However, his gaze was immediately drawn to the book Lia had just bought. The book centered on themes of demons, rage, depression, and despair. Tartarus tore the book to pieces and walked out of the house with a blank stare.
+
+It was then that his plan began to take motion, but because his powers were growing weaker, Tartarus shut himself away inside a coffin. Before doing so, he met a demon worshipper obsessed with him, named Izuna. He entrusted this plan to Izuna—the plan to resurrect Tartarus's essence, as well as... the plan to recreate the world: the Familia Revolution.
+
+After finally rising once again, his goal became even clearer. The entire world must become his family, and anyone who dares to oppose will be obliterated by Tartarus. And if there is a world that refuses to become his family, Tartarus will not hesitate to destroy it.</p>
+
+  <p><i>"I have decided... I, myself, will create the meaning of family for my own... This world... I will transform it into a home for my family."</i></p>
+<h3>Power, Ability, Stats:</h3>
+  <p>Tartarus has a speed that can reach infinity - immeasurable. The force of punches and kicks can reach infinity.
+
+Tartarus has a huge advantage in durability. His armor, the <strong>Anti-Versal</strong>, makes him immune to all kinds of attacks, whether physical, fundamental, or even metaphysical. This defense is impenetrable by concepts. Essentially, Tartarus's existence lies beyond all universal concepts and personifications. Therefore, it cannot be penetrated by any means. Anything that touches Tartarus will instantly wither and rot away its soul, existence, and essence.</p>
+  <p>Tartarus' existence is an anomaly within the entire hierarchy. It is unknown how he is categorized. What is certain is that Tartarus is the antithesis of various systems of duality. He is no longer a light or darkness. 
+
+Tartarus can sever his arms to extend them, which remain connected by a string. He can also absorb any source of attack that comes his way, then he can turn it into his attack. 
+
+Tartarus may not seem to possess any great power that could shake the world. But its existence raises a huge question mark about all the universal aspects that have supported the entire universe. 
+
+Death, the end, life, the beginning. Tartarus is not bound by those dualities. It has its own fundamental qualities, which no one can ever know.</p>
+</section>
+
 <section id="world">
   <h1></h1>
   <h1>World of FSA</h1>
