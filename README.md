@@ -389,6 +389,22 @@ Razor has a speed that can reach Mach 900,000. Razor himself has an aggressive, 
 Razor himself has mastered Spirition mode, turning his comb into a long sword, increasing all of Razor's stats significantly.</p>
 </section>
 
+<section id="louis">
+  <h1></h1>
+    <h2>Louis</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : human, spirit tamer</li>
+    <li>Age : 35</li>
+    <li>Sex : male</li>
+    <lI>Tall : 193 cm</lI>
+    <li>Weight : 57 kg</li>
+    <li>Date of birth : 31 August</li>
+    <li>Hobby : unknown</li>
+  </ul>
+  <h3>Biography:</h3>
+  <p></p>
+
 <section id="tartarus">
   <h1></h1>
     <h2>Tartarus</h2>
