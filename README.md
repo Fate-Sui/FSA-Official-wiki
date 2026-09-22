@@ -403,7 +403,9 @@ Razor himself has mastered Spirition mode, turning his comb into a long sword, i
     <li>Hobby : unknown</li>
   </ul>
   <h3>Biography:</h3>
-  <p></p>
+  <p>Before becoming a Spirit Tamer in the Soul Association, Louis was a monk who upheld the philosophy of "Power to Peace"—the belief that power should be used for peace and harmony. But one day, a monk was caught practicing dark arts and using demonic power. That demonic power spiraled out of control, causing numerous wild demons to emerge and slaughter many monks. Fortunately, Wataru arrived just in time before Louis could be killed by a wild demon, saving his life. Meanwhile, the monk who had resorted to demonic power was killed by the very demon he sought to exploit.</p>
+  <p>Filled with disappointment and sorrow, Louis was heartbroken that within a group dedicated to upholding power as a symbol of justice, someone was still consumed by a lust for power and chose the wrong path. Louis ultimately decided to join the Soul Association and become a Spirit Tamer. He successfully passed the Spirit Compress ritual and officially became a Spirit Tamer. Alongside Razor, Amanda, and Kevin, the four of them formed the first generation of the Soul Association's forces.</p>
+  <h>Power, Ability, Stats:</h>
 
 <section id="tartarus">
   <h1></h1>
