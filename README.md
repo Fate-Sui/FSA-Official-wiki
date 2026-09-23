@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-</body>
-</html>
-
 <h1>Fade; Soul Apocalypse</h1>
 
 <nav>
