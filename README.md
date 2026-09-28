@@ -1,3 +1,9 @@
+<header>
+<img width="300" height="300" alt="judul FSA" src="https://github.com/user-attachments/assets/9321688e-2ee8-4ef4-a348-9ab31332dc2c"
+alt="Fade; Soul Apocalypse"
+class="logo">
+
+
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
