@@ -1,11 +1,3 @@
-<header>
-    <img width="1536" height="1536" alt="fsa-logo-transparent" src="https://github.com/user-attachments/assets/53a321e6-5fef-4229-ba82-6ef26ed75f23" 
-alt="Fade; Soul Apocalypse"
-class="logo">
-</header>
-
-
-
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
