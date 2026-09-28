@@ -74,6 +74,12 @@ As time continued to flow, humans began to stray further from truth, justice, an
 <section id="system">
   <h1></h1>
   <h1>System</h1>
+<h2>Essence</h2>
+    <p>In the FSA world, Essence itself is a fundamental existential core. It's not just a life or existence with roots, but rather something much more.
+
+The essence of every individual and every form of existence is to provide a reason for their existence. Such as, what their soul is like, what their form is like, what time have they gone through, what is their history, what is their story, and what is their reason for being in the world.</p>
+
+<p>In conclusion, the concept of essence is not simply a form of a person's existence. Rather, it provides us with the answer to why a person exists, has a form, a story, and a history.</p>
   <h2>Spirit Tamer</h2>
   <p>Spirit Tamers are a group of individuals capable of more explicit control over spiritual energy. They can manifest it in various forms, including defense and attack. A Spirit Tamer must go through a special ritual called <strong>Spiritual Compress</strong>. A ritual where one makes a contract with a chosen spirit, often an angel. And because the context is angelic, a person must have faith and a pure heart. Otherwise, the angels will not want to make a contract.
 
@@ -417,6 +423,39 @@ Razor himself has mastered Spirition mode, turning his comb into a long sword, i
   <h>Power, Ability, Stats:</h>
   <p>Louis has a running and flying speed that can reach Mach 16. The power of his punches and kicks can reach 8 tons.</p>
   <p>Louis manifests his spiritual powers in a mirror. The mirror has several uses. Among them can absorb an attack power, or reflect it back. Louis' mirror is a defensive type, so he can't produce any attack techniques. Louis himself has mastered Spirition mode, which can make his mirror more multi-functional. The mirrors can be multiple and can also be enlarged. This also increases the amount of absorption the mirrors can hold, allowing them to absorb/withstand more attacks.</p>
+
+<section id="izuna">
+  <h1></h1>
+    <h2>Izuna</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : human, demon</li>
+    <li>Age : 180+ years old</li>
+    <li>Sex : male</li>
+    <lI>Tall : 177 cm</lI>
+    <li>Weight : 71 kg</li>
+    <li>Date of birth : unknown</li>
+    <li>Hobby : unknown</li>
+  </ul>
+  <h3>Biography:</h3>
+  <p>Demons. Izuna is obsessed with demons. For years, he has been searching for a way to communicate with them and form a relationship with them. He often performed inhumane experiments just to meet the demon. However, all his efforts were always in vain.
+
+Until he met Tartarus, a figure Izuna thought was a demon. Izuna then revealed that he deeply worshipped and dreamed of meeting a demon. Izuna poured out her heart to Tartarus, and Tartarus didn't mind if Izuna wanted to follow him. However, they weren't together for long. Due to Tartarus' critical condition, he passed on some of his power to Izuna, while he himself would rest for a long time to recover his essence.</p>
+
+<p>While Tartarus was asleep, Izuna was the one who carried out all his plans. He got other demons to join him, and formed a group called <strong>The Deavoric</strong>. Among them are Zhask, Lancelot, Gaizo, Misha, and The Dark Zeus. 
+
+Actually, Izuna doesn't know what Tartarus's purpose is, so, currently, he and The Deavoric need to make an effort to awaken Tartarus. To make it able to recover its essence faster.
+
+Izuna leads the Deavoric group in the shadows. Even though the world knows they exist in the darkness, they won't dare mess with them. Except for the Spirit Tamers. Izuna developed clandestine relationships with several political figures that he could exploit for his plans to revive Tartarus. All the plans he had built and formulated, is to resurrect the figure he greatly admires, Tartarus.</p>
+<p><i>"Demons can become humans. And humans can also become demons"</i></p>
+
+<h3>Power, Ability, Stats:</h3>
+<p>Izuna possesses a speed that can reach 900,000 million light-years, and a kicking and punching force that can reach 3,000 tons.</p>
+<p>zuna possesses an ability called <strong>Anti-Perception</strong>. It's a very dangerous illusion ability, as it doesn't just affect the target's imagination, but can also create a alternative reality. Izuna himself claimed that his illusions could deceive the gods. This was because his illusions were unpredictable, and the target would be unable to distinguish between illusion and reality. That's why this ability is called Anti-Perception, because it bypasses the duality between reality and illusion.
+
+Furthermore, Izuna is also extremely dangerous in combat. Coupled with his Anti-Perception abilities, he feels impossible to defeat. Or rather, his opponents never actually fight with Izuna...</p>
+
+<p>And the only way to avoid being affected by Izuna's Anti-Perception ability, is to destroy the boundary between reality and illusion. Or in another case, there is someone who has an existence that is beyond the concept of reality itself, so they cannot be influenced by Anti-Perception.</p>
 
 <section id="tartarus">
   <h1></h1>
