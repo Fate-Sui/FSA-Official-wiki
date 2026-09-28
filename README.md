@@ -1,5 +1,5 @@
 <header>
-    <img width="300 px" height="2048" alt="judul FSA" src="https://github.com/user-attachments/assets/a5f5123d-662b-4d99-a48c-af488f5247ec"
+    <img width="1536" height="1536" alt="fsa-logo-transparent" src="https://github.com/user-attachments/assets/53a321e6-5fef-4229-ba82-6ef26ed75f23" 
 alt="Fade; Soul Apocalypse"
 class="logo">
 </header>
