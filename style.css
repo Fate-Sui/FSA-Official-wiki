@@ -1,3 +1,10 @@
+.logo {
+    widht: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto:
+}
+
 body {
     background: linear-gradient(#333 1px, transparent 1px),
     linear-gradient(90deg, #333 1px, transparent 1px);
