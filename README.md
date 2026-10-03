@@ -13,15 +13,18 @@ class="logo">
 </body>
 </html>
 
-<h1>Fade; Soul Apocalypse</h1>
 
-<nav>
-  <a href="#home">Home</a>
-  <a href="#history">History</a>
-  <a href="#characters">Characters</a>
-  <a href="#system">System</a>
-  <a href="#world">World</a>
-</nav>
+<body>
+    <div class="sidebar">
+        <a href="index.html">🏠 Home</a>
+        <a href="history.html">📜 History</a>
+        <a href="world.html">🌎 World</a>
+        <a href="characters.html">👤 Characters</a>
+        <a href="system.html">⚡ Power System</a>
+        <a href="cosmology.html">🌌 Cosmology</a>
+        <a href="other.html">📖 Other</a>
+    </div>
+
 
 <section id="home">
   <h1></h1>
