@@ -137,35 +137,34 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <li><a href="#syrena">Syrena</a></li>
     <li><a href="#kamiyo">Kamiyo</a></li>
     <li><a href="#mitsuki">Mitsuki</a></li>
-    <li><a href="#miruka yuga">Miruka Yuga</a></li>
-    <li><a href="#sparrow yuki">Sparrow Yuki</a></li>
-    <li><a href="#akasa shuna">Akasa Shuna</a></li>
-    <li><a href="#banjou kirisaki">Banjou Kirisaki</a></li>
-    <li><a href="#jezz maruka">Jezz Maruka</a></li>
-    <li><a href="#natalia maruka">Natalia Maruka</a></li>
-    <li><a href="#sinichi katsura">Sinichi Katsura</a></li>
+    <li><a href="#miruka">Miruka Yuga</a></li>
+    <li><a href="#sparrow">Sparrow Yuki</a></li>
+    <li><a href="#akasa">Akasa Shuna</a></li>
+    <li><a href="#banjou">Banjou Kirisaki</a></li>
+    <li><a href="#jezz">Jezz Maruka</a></li>
+    <li><a href="#natalia">Natalia Maruka</a></li>
+    <li><a href="#sinichi">Sinichi Katsura</a></li>
     <li><a href="#marcell">Marcell</a></li>
-    <li><a href="#suga machi">Suga Machi</a></li>
-    <li><a href="#hanabi yuga">Hanabi Yuga</a></li>
-    <li><a href="#aizen koutetsu">Aizen Koutetsu</a></li>
+    <li><a href="#machi">Suga Machi</a></li>
+    <li><a href="#hanabi">Hanabi Yuga</a></li>
+    <li><a href="#aizen">Aizen Koutetsu</a></li>
     <li><a href="#izuna">Izuna</a></li>
     <li><a href="#tartarus">Tartarus</a></li>
-    <li><a href="#rikka yuki">Rikka Yuki</a></li>
+    <li><a href="#rikka">Rikka Yuki</a></li>
     <li><a href="#misha">Misha</a></li>
-    <li><a href="#the dark zeus">The Dark Zeus</a></li>
+    <li><a href="#tdz">The Dark Zeus</a></li>
     <li><a href="#lancelot">Lancelot</a></li>
     <li><a href="#zhask">Zhask</a></li>
     <li><a href="#gaizo">Gaizo</a></li>
     <li><a href="#moris">Moris</a></li>
     <li><a href="#mika">Mika</a></li>
-    <li><a href="#gabriel martinus">Gabriel Martinus</a></li>
-    <li><a href="#verri james credo">Verri James Credo</a></li>
-    <li><a href="#chris walberd">Chris Walberd</a></li>
-    <li><a href="#anastasia ivory">Anastasia Ivory</a></li>
-    <li><a href="#chloe mathilda">Chloe Mathilda</a></li>
-    <li><a href="#morgan vermillion">Morgan Vermillion</a>
-  </li>
-    <li><a href="#lui talliona">Lui Talliona</a></li>
+    <li><a href="#gabriel">Gabriel Martinus</a></li>
+    <li><a href="#verri">Verri James Credo</a></li>
+    <li><a href="#chris">Chris Walberd</a></li>
+    <li><a href="#anastasia">Anastasia Ivory</a></li>
+    <li><a href="#chloe">Chloe Mathilda</a></li>
+    <li><a href="#morgan">Morgan Vermillion</a></li>
+    <li><a href="#lui">Lui Talliona</a></li>
   </ul>
 </nav>
 </section>
@@ -430,6 +429,20 @@ Razor himself has mastered Spirition mode, turning his comb into a long sword, i
   <h>Power, Ability, Stats:</h>
   <p>Louis has a running and flying speed that can reach Mach 16. The power of his punches and kicks can reach 8 tons.</p>
   <p>Louis manifests his spiritual powers in a mirror. The mirror has several uses. Among them can absorb an attack power, or reflect it back. Louis' mirror is a defensive type, so he can't produce any attack techniques. Louis himself has mastered Spirition mode, which can make his mirror more multi-functional. The mirrors can be multiple and can also be enlarged. This also increases the amount of absorption the mirrors can hold, allowing them to absorb/withstand more attacks.</p>
+
+<section id="sparrow">
+  <h1></h1>
+    <h2>Sparrow Yuki</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : human, spirit tamer</li>
+    <li>Age : 20</li>
+    <li>Sex : male</li>
+    <lI>Tall : 179 cm</lI>
+    <li>Weight : 65 kg</li>
+    <li>Date of birth : 9 May</li>
+    <li>Hobby : meditating</li>
+  </ul>
 
 <section id="izuna">
   <h1></h1>
