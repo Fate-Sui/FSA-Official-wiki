@@ -132,7 +132,6 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <li><a href="#carlos d. roman">Carlos D. Roman</a></li>
     <li><a href="#shelly">Shelly</a></li>
     <li><a href="#ellie carmila">Ellie Carmila</a></li>
-    <li><a href="#marina carmila">Marina Carmila</a></li>
     <li><a href="#sencretz">Sencretz</a></li>
     <li><a href="#trevor">Trevor</a></li>
     <li><a href="#syrena">Syrena</a></li>
