@@ -14,7 +14,6 @@ class="logo">
 </html>
 
 
-<h1>Fade; Soul Apocalypse</h1>
 
 <nav>
   <a href="#home">Home</a>
