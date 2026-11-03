@@ -95,7 +95,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
   <p>Spiritual energy is the source of power for Spirit Tamers. This energy is formed from various materials found throughout the universe. Therefore, Spirit Tamers must be able to control and manifest their spiritual energy more controlled and carefully. Because if any Spirit Tamer fails to control their powers, the ecosystem of the universe will become uncontrollable and most likely... Collapse.</p>
 
   <p>There is a concept called <strong>Field</strong>. Field is a concept where a Spirit Tamer or pure spirit creates a dimension where they can manipulate the environment and its contents. However, Fields are typically identified with a type of spirit. For example, an angel's Field is associated with a bright, hopeful environment, usually symbolized by the sky. Meanwhile, the demon's Field is symbolized as a sea so deep that it feels endless, as a form of despair, destruction, and darkness.</p>
-  <p>There's an absolute rule: spirits of the same kind cannot kill each other. While they can still injure each other, regeneration can eventually heal the wounds. And the situation would be different, for example, if an angel managed to inflict a slash wound on a demon, the wound wouldn't heal quickly. And it would take quite a long time to completely heal the wound.</p>
+  <p>There's an absolute rule: spirits of the same kind cannot kill each other. While they can still injure each other, regeneration can eventually heal the wounds. And the situation would be different, for example, if an angel managed to inflict a slash wound on a demon, the wound wouldn't heal quickly. And it would take quite a long time to completely heal the wound. This rule only applies to those who still possess the essence of pure spirit. Therefore, Spirit Tamers with aneglic or demonic powers can still harm other Spirit Tamers or those of the same kind. Because the inner spirit of the Spirit Tamers has been mixed with the soul of the individual who made a contract with them </p>
   
 <h2>Wild Demon</h2>
   <p>Wild demons is born and created from human's bad behavior/sins. They will appear in places filled with human bad behavior.</p>
@@ -230,7 +230,7 @@ Marshall was also chosen as the wielder and vessel of the <strong>Endless Void C
   <h3>Biography:</h3>
   <p>Natsugo Yuga is the younger brother of Wataru Yuga and Miruka Yuga. Their parents passed away when Natsugo was just a child. Before Wataru left, he gave his hat to Natsugo in the hope that Natsugo could carry on his dream of becoming a police officer, as Wataru was leaving to continue his education in Russia. Becoming a police officer was more than just an ambition; it was Wataru's resolve to change global justice for the better, because to him, justice at that time did not truly mean justice.
 
-After receiving news that the plane Wataru was on had crashed and his body could not be found, Natsugo felt a heavy responsibility to carry on his older brother's dream. He began training to become a police officer until he finally succeeded, alongside Miruka, who would support him.
+After receiving news that the plane Wataru was on had crashed and his body could not be found, Natsugo felt a heavy responsibility to carry on his older brother's dream. He began training to become a police officer until he finally succeeded, alongside Miruka, who would support him. They are now police officers of Kyōga city.
 
 However, while on a mission, Natsugo experienced a strange phenomenon: just as he should have been killed after being hit by a car, it was the car that got thrown back and destroyed. Natsugo then saw his own reflection in a mirror, where he was undergoing bizarre changes, such as growing horns, his eyes turning red, and his skin feeling much harder.
 
@@ -543,7 +543,19 @@ However, the Russian branch still had its own force squad, labeled the first gen
 
 The Japanese branch itself has two generations. The second generation included Marcell, Hanabi Yuki, and Suga Machi. Chaired by Aizen. And the third generation includes Sparrow Yuki, Banjou Kirisaki, Akasa Shuna, and Natsugo Yuga, chaired by Jezz and Natalia.</p>
 
-  <h2>Hierarchy & Cosmology</h2>
+<h2>History of Yuki clan</h2>
+<p>Modern Japan stands on a fragile foundation built of blood and falsehoods from the 1962 Diplomatic War—a four-month conflict involving seven samurai clans amidst a fractured nation. The allegation that one clan utilized demonic power at that time was successfully suppressed, making the Yuki Clan the sole survivor and elevating them as national heroes. 
+
+However, that victory was a systemic curse. Serving as an elite militia as well as a consecrated cultural symbol under the direct control of the Japanese government, the Yuki Clan was exploited as a dirty instrument for domestic and international shadow operations. Each bloody purge not only left intergenerational trauma but also accelerated the internal decay of the clan.</p>
+
+<p>Behind that illusory honor, a grim secret was revealed: the Yuki Clan truly had abused demonic power to maintain their political and military dominance. The consequences were horrific; all members of the Yuki Clan experienced advanced spiritual resonance, with their souls slowly being possessed by demonic energy. In the near future, the threshold of their human consciousness would collapse, and that demonic power was projected to take over entirely, transforming the entire clan into entities of mass destruction.
+
+Realizing that their clan had become a ticking time bomb ready to destroy the world, an internal faction made its move. Rikka, one of the prominent members, took the extreme step of assassinating the family head—the patriarch who turned out to be the mastermind and architect behind all the dark secrets, manipulation, and the abuse of that demonic power. That assassination triggered a fatal chaos. The contained demonic power spiraled out of control, provoking the emergence of wild demons from the shadow dimension who slaughtered nearly everyone in the clan during a bloody and desperate night of massacre. This incident forced the government to officially declare the Yuki Clan dissolved and extinct, erasing their dark history from public records to cover up state involvement.
+</p>
+
+<p>Amidst the ruins, those who remain must face a fractured destiny within the whirlpool of global conflict: Rikka is now branded as a high-level international fugitive and the most dangerous global terrorist for the massacre of her own clan. To protect the remaining secrets while dismantling the corrupt remnants of the world's system, she chose to cross over by joining The Deavoric, a radical demon faction that now poses the greatest existential threat to humanity. Meanwhile, Sparrow, Hanabi, and Kurasaki are the remaining clan members, currently trapped between the shadows of the past, the pursuit of global authorities, and deep moral dilemmas regarding the extreme choice made by Rikka.</p>
+
+<h2>Hierarchy & Cosmology</h2>
   <p>Fade; Soul Apocalypse has so many layers of worlds and hierarchies:</p>
   <ul>
     <li><h3>Mortal World</h3></li>
