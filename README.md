@@ -171,7 +171,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
 
   <section id="marsha">
     <h1></h1>
-    <h2>Marshall D. Roman</h2>
+    <h2>Marsha Roman</h2>
     <h3>Biodata:</h3>
     <ul>
       <li>Classification : human, demon, The End, vessel of Azathoth</li>
