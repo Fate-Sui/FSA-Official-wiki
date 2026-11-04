@@ -183,7 +183,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
       <li>Hobby : Exploring</li>
     </ul>
     <h3>Biography:</h3>
-    <p>Marsha Roman, is a girl who was born in northern Russia, in a small village. Marshall was originally an ordinary little girl, very shy and innocent. But one day, when her little brother, Carlos, was born, she had to experience the most terrifying incident in her life.
+    <p>Marsha Roman, is a girl who was born in northern Russia, in a small village. Marsha was originally an ordinary little girl, very shy and innocent. But one day, when her little brother, Carlos, was born, she had to experience the most terrifying incident in her life.
 
 Marsha was the human chosen to be the reincarnation vessel of Azathoth. Due to the changes and influence of Azathoth's existence, the energy Marsha released made everyone in the village turned into a skeleton. Everyone died. Only she and Carlos, the newborn, were still alive. The tragedy was the most devastating trauma in Marsha's life. As a result, she had to leave the village and take Carlos with her to survive. 
 
