@@ -33,7 +33,7 @@ class="logo">
 <h2>What is Fade; Soul Apocalypse?</h2>
 <p>
 
-Fade; Soul Apocalypse is a fictional story I wrote. It tells the story of a conflict between angels and demons, involving civilization and the fate of humanity. This story itself has two main characters, namely Marshall D. Roman, and Natsugo Yuga.
+Fade; Soul Apocalypse is a fictional story I wrote. It tells the story of a conflict between angels and demons, involving civilization and the fate of humanity. This story itself has two main characters, namely Marsha Roman, and Natsugo Yuga.
 
 Enjoy your browsing on this website!</p>
 
@@ -119,7 +119,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
   <h2>Characters</h2>
   <nav>
   <ul>
-    <li><a href="#marshall d. roman">Marshall D. Roman</a></li>
+    <li><a href="#marsha">Marsha Roman</a></li>
     <li><a href="#natsugo yuga">Natsugo Yuga</a></li>
     <li><a href="#wataru yuga">Wataru Yuga</a></li>
     <li><a href="#gatos maruka">Gatos Maruka</a></li>
@@ -128,7 +128,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <li><a href="#louis">Louis</a></li>
     <li><a href="#amanda">Amanda</a></li>
     <li><a href="#kevin">Kevin</a></li>
-    <li><a href="#carlos d. roman">Carlos D. Roman</a></li>
+    <li><a href="#carlos">Carlos Roman</a></li>
     <li><a href="#shelly">Shelly</a></li>
     <li><a href="#ellie carmila">Ellie Carmila</a></li>
     <li><a href="#sencretz">Sencretz</a></li>
@@ -145,7 +145,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <li><a href="#sinichi">Sinichi Katsura</a></li>
     <li><a href="#marcell">Marcell</a></li>
     <li><a href="#machi">Suga Machi</a></li>
-    <li><a href="#hanabi">Hanabi Yuga</a></li>
+    <li><a href="#hanabi">Hanabi Yuki</a></li>
     <li><a href="#aizen">Aizen Koutetsu</a></li>
     <li><a href="#izuna">Izuna</a></li>
     <li><a href="#tartarus">Tartarus</a></li>
@@ -155,6 +155,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <li><a href="#lancelot">Lancelot</a></li>
     <li><a href="#zhask">Zhask</a></li>
     <li><a href="#gaizo">Gaizo</a></li>
+    <li><a href="#catelyne">Catelyne</a></li>
     <li><a href="#moris">Moris</a></li>
     <li><a href="#mika">Mika</a></li>
     <li><a href="#gabriel">Gabriel Martinus</a></li>
@@ -168,7 +169,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
 </nav>
 </section>
 
-  <section id="marshall d. roman">
+  <section id="marsha">
     <h1></h1>
     <h2>Marshall D. Roman</h2>
     <h3>Biodata:</h3>
@@ -182,34 +183,34 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
       <li>Hobby : Exploring</li>
     </ul>
     <h3>Biography:</h3>
-    <p>Marshall D. Roman, is a girl who was born in northern Russia, in a small village. Marshall was originally an ordinary little girl, very shy and innocent. But one day, when her little brother, Carlos, was born, she had to experience the most terrifying incident in her life.
+    <p>Marsha Roman, is a girl who was born in northern Russia, in a small village. Marshall was originally an ordinary little girl, very shy and innocent. But one day, when her little brother, Carlos, was born, she had to experience the most terrifying incident in her life.
 
-Marshall was the human chosen to be the reincarnation vessel of Azathoth. Due to the changes and influence of Azathoth's existence, the energy Marshall released made everyone in the village turned into a skeleton. Everyone died. Only she and Carlos, the newborn, were still alive. The tragedy was the most devastating trauma in Marshall's life. As a result, she had to leave the village and take Carlos with her to survive. 
+Marsha was the human chosen to be the reincarnation vessel of Azathoth. Due to the changes and influence of Azathoth's existence, the energy Marsha released made everyone in the village turned into a skeleton. Everyone died. Only she and Carlos, the newborn, were still alive. The tragedy was the most devastating trauma in Marsha's life. As a result, she had to leave the village and take Carlos with her to survive. 
 
-Marshall's journey to survive is very difficult, she has to take care of newborn Carlos and look for various necessities of life. And after such a long and bitter journey, Marshall met Wataru, and from that meeting, Marshall and Carlos's lives changed for the better.
+Marsha's journey to survive is very difficult, she has to take care of newborn Carlos and look for various necessities of life. And after such a long and bitter journey, Marsha met Wataru, and from that meeting, Marsha and Carlos's lives changed for the better.
 
-Marshall learns many things from Wataru, including about spiritual energy, Spirit Tamers, and more. Marshall continues to fight and train to make herself able to protect the people she loves.
+Marsha learns many things from Wataru, including about spiritual energy, Spirit Tamers, and more. Marsha continues to fight and train to make herself able to protect the people she loves.
 
-And with the support of her friends and mentors, Marshall has grown into a strong woman. After overcoming various difficult obstacles in her life, internal conflicts with her inner spirits, Marshall can finally stand up not to be protected, but to protect the people she cares about.</p>
+And with the support of her friends and mentors, Marsha has grown into a strong woman. After overcoming various difficult obstacles in her life, internal conflicts with her inner spirits, Marsha can finally stand up not to be protected, but to protect the people she cares about.</p>
 
-<p>Marshall inherited much of the death essence from Azathoth, allowing her to manipulate the concepts of life and death. Even when she had become more perfect and ready to control life and death. Even though she has to go through such excruciating suffering, namely feeling the death and pain of all humans who have existed in various eras.
+<p>Marsha inherited much of the death essence from Azathoth, allowing her to manipulate the concepts of life and death. Even when she had become more perfect and ready to control life and death. Even though she has to go through such excruciating suffering, namely feeling the death and pain of all humans who have existed in various eras.
 
-However, with experience, Marshall has become more accustomed to it, especially since she has a mode called <strong>Blue Reactor</strong>, a mode that allows her to completely control her life and death's reality. Transcending every dimensional structure.
+However, with experience, Marsha has become more accustomed to it, especially since she has a mode called <strong>Blue Reactor</strong>, a mode that allows her to completely control her life and death's reality. Transcending every dimensional structure.
 
-Marshall is known for being a very cold girl, often showing no mercy to her enemies. Despite this, she remains caring and warm to those she loves.
+Marsha is known for being a very cold girl, often showing no mercy to her enemies. Despite this, she remains caring and warm to those she loves.
 
-Marshall's ultimate feat was when she reached the point where she had transcended his existence, at which point she had completely become the personification of the end. The end of all life, the end of all stories. Erasing or ending an existence, even more abstract. Although she is not as complex as Azathoth. Making her have very high abilities compared to others.</p>
+Marsha's ultimate feat was when she reached the point where she had transcended her existence, at which point she had completely become the personification of the end. The end of all life, the end of all stories. Erasing or ending an existence, even more abstract. Although she is not as complex as Azathoth. Making her have very high abilities compared to others.</p>
     <p><i>"I'm not your enemy, I am your END."</i></p>
  <h3>Power, Ability, Stats:</h3>
-    <p>Marshall can move 9 billion times faster than the speed of light. Her punches and kicks can reach a force of 198,900 tons. Marshall have extreme endurance (able to survive various phenomena of death, immune to powerful illusions, even illusions that can damage the brain and mental, multidimensional destruction, and changes in space-time)
+    <p>Marsha can move 9 billion times faster than the speed of light. Her punches and kicks can reach a force of 198,900 tons. Marsha have extreme endurance (able to survive various phenomena of death, immune to powerful illusions, even illusions that can damage the brain and mental, multidimensional destruction, and changes in space-time)
 
-Despite having the essence of death, Marshall actually uses her demonic essence more often, although not as dominantly as Natsugo. She fights with a weapon created by the Soul Association—the Tempest Weapon. She wields two weapons, the Tempest Lancer and the Tempest Lazer. The Tempest weapon itself is created from the reaction of resonance and electromagnetic waves. It is perfect for fighting wild demons without having to manifest spiritual energy into an object. Marshall has a fighting style like an assassin, agile, fast, and always locks on to the target perfectly.</p>
-    <p>Marshall can also use the Death Essence ability. An ability that allows Marshall to kill, end, and erase anything absolutely. Even something beyond the duality of life and death will still disappear at Marshall's will. No matter how high the opponent's dimensional level is, how strong they are, even if they are Terralords, death essence will end them.
+Despite having the essence of death, Marsha actually uses her demonic essence more often, although not as dominantly as Natsugo. She fights with a weapon created by the Soul Association—the Tempest Weapon. She wields two weapons, the Tempest Lancer and the Tempest Lazer. The Tempest weapon itself is created from the reaction of resonance and electromagnetic waves. It is perfect for fighting wild demons without having to manifest spiritual energy into an object. Marsha has a fighting style like an assassin, agile, fast, and always locks on to the target perfectly.</p>
+    <p>Marsha can also use the Death Essence ability. An ability that allows Marsha to kill, end, and erase anything absolutely. Even something beyond the duality of life and death will still disappear at Marsha's will. No matter how high the opponent's dimensional level is, how strong they are, even if they are Terralords, death essence will end them.
 
-Marshall's greatest potential was seen when she once survived the infinite void unleashed by Morgan. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marshall was still able to survive, even tearing the void apart.
+Marsha's greatest potential was seen when she once survived the infinite void unleashed by Morgan. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marsha was still able to survive, even tearing the void apart.
 
-Marshall was also chosen as the wielder and vessel of the <strong>Endless Void Core</strong>, the core of the entire concept of chaos that exists throughout the world. Allowing Marshall to create all sorts of havoc across the universe. However, Marshall won't use it for that.</p>
-<p>Up to this point, Marshall has been able to master Spirition Max mode which focuses on the death essence.</p>
+Marsha was also chosen as the wielder and vessel of the <strong>Endless Void Core</strong>, the core of the entire concept of chaos that exists throughout the world. Allowing Marsha to create all sorts of havoc across the universe. However, Marshall won't use it for that.</p>
+<p>Up to this point, Marsha has been able to master Spirition Max mode which focuses on the death essence.</p>
     
   </section>
   
@@ -240,7 +241,7 @@ Natsugo later met Jezz. After Jezz explained what had happened, Natsugo was inst
 
 His journey continued until he finally met his other self, Marshall. As different individuals united by fate, Natsugo and Marshall would face every incoming threat together.
 
-Compared to Marshall, who inherited Azathoth's essence of death, Natsugo inherited Azathoth's demonic essence, and this affects their fighting styles. Natsugo tends to rely more on physical prowess and brute force attacks. Though he occasionally uses his revolver, the key to his fighting style lies in physical strength and a head-on approach. And compared to Marshall, who has a cold personality, Natsugo is much more open, cheerful, and comes across as somewhat unstable. He is indeed too kind, but it is precisely because of that kindness that he believes he can change the world's definition of justice.</p>
+Compared to Marsha, who inherited Azathoth's essence of death, Natsugo inherited Azathoth's demonic essence, and this affects their fighting styles. Natsugo tends to rely more on physical prowess and brute force attacks. Though he occasionally uses his revolver, the key to his fighting style lies in physical strength and a head-on approach. And compared to Marsha, who has a cold personality, Natsugo is much more open, cheerful, and comes across as somewhat unstable. He is indeed too kind, but it is precisely because of that kindness that he believes he can change the world's definition of justice.</p>
 
 <p><i>"I am Natsugo Yuga! I will become the number one police officer in the world and change the meaning of justice!"</i></p>
 </section>
@@ -349,8 +350,8 @@ He then nominated himself to become the next demon king, replacing Diablo should
 Amazed, Azathoth passed and was ready to become the next demon king, effortlessly completing tests that other demons found cruelly difficult. Upon stepping outside, Azathoth encountered a bruised and visibly disappointed little demon girl. She was Catelyne, and it was revealed that Catelyne had actually wanted to run for demon king/queen as well, but had failed even the first test. However, upon hearing that Azathoth had effortlessly passed even from the first test, Catelyne grew furious and resentful, attempting to attack him. But before she could strike, Catelyne caught sight of Azathoth's chilling, terrifying aura. It was as if she were looking at the Grim Reaper. That sight filled Catelyne with fear, anxiety, trembling, and despair. She ultimately prostrated herself and apologized to Azathoth, while Azathoth didn't do a thing. Pitying her, Azathoth offered Catelyne a position: he would make her his right-hand person. Hearing this, Catelyne was initially hesitant, but ultimately accepted the offer with joy.
 Time went on until the incident in the northern demonic realm caused by Gatos. With the news of Diablo's death as well, Azathoth was finally appointed as the demon king. One day, he came across a historical photo from the war between demons and angels. Instead of focusing on the demons or angels, Azathoth's attention was drawn to the buildings and a form of life different from either race. Azathoth then learned that they were humans and their civilization. He also discovered that human civilization was constantly being destroyed by the wars in the spiritual realm, shattering all the civilization and progress they had built and forcing them to start over from scratch time and time again.
 In the end, Azathoth grew increasingly curious about humans. He went to meet Gatos—not for revenge, but to propose putting an end to this endless war so that human civilization could continue to develop without obstacles caused by demons and angels. Ultimately, Gatos agreed. By chanting a grand technique, they sealed the demons and angels away in the deepest parts of their respective realms.</p>
-  <p>Following that, Azathoth planned to split himself into two essences: the essence of death and the essence of demons. The reason for dividing them was because a human who received both essences simultaneously would not be able to sustain them and would lose control. Those two essences then chose two individuals: Marshall D. Roman, who inherited the essence of death, and Natsugo Yuga, who inherited the demonic essence.
-Once Azathoth awakened into the modern era of humanity through the union of Marshall and Natsugo, he was finally able to witness firsthand an immensely advanced human civilization. Through Marshall and Natsugo as well, Azathoth could experience diverse human lives. He was deeply satisfied to see humanity thriving.
+  <p>Following that, Azathoth planned to split himself into two essences: the essence of death and the essence of demons. The reason for dividing them was because a human who received both essences simultaneously would not be able to sustain them and would lose control. Those two essences then chose two individuals: Marsha Roman, who inherited the essence of death, and Natsugo Yuga, who inherited the demonic essence.
+Once Azathoth awakened into the modern era of humanity through the union of Marsha and Natsugo, he was finally able to witness firsthand an immensely advanced human civilization. Through Marsha and Natsugo as well, Azathoth could experience diverse human lives. He was deeply satisfied to see humanity thriving.
 From a being that was once mindless, blind, and capable only of consuming universes, he had now become the most crucial figure in the progress of human civilization.</p>
   <p><i>"You cannot run from the End."</i></p>
 
