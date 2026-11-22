@@ -207,7 +207,7 @@ Marsha's ultimate feat was when she reached the point where she had transcended 
 Despite having the essence of death, Marsha actually uses her demonic essence more often, although not as dominantly as Natsugo. She fights with a weapon created by the Soul Association—the Tempest Weapon. She wields two weapons, the Tempest Lancer and the Tempest Lazer. The Tempest weapon itself is created from the reaction of resonance and electromagnetic waves. It is perfect for fighting wild demons without having to manifest spiritual energy into an object. Marsha has a fighting style like an assassin, agile, fast, and always locks on to the target perfectly.</p>
     <p>Marsha can also use the Death Essence ability. An ability that allows Marsha to kill, end, and erase anything absolutely. Even something beyond the duality of life and death will still disappear at Marsha's will. No matter how high the opponent's dimensional level is, how strong they are, even if they are Terralords, death essence will end them.
 
-Marsha's greatest potential was seen when she once survived the infinite void unleashed by Morgan. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marsha was still able to survive, even tearing the void apart.
+Marsha's greatest potential was seen when she once survived the infinite void unleashed by her enemy. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marsha was still able to survive, even tearing the void apart.
 
 Marsha was also chosen as the wielder and vessel of the <strong>Endless Void Core</strong>, the core of the entire concept of chaos that exists throughout the world. Allowing Marsha to create all sorts of havoc across the universe. However, Marshall won't use it for that.</p>
 <p>Up to this point, Marsha has been able to master Spirition Max mode which focuses on the death essence.</p>
@@ -426,7 +426,7 @@ Razor himself has mastered Spirition mode, turning his comb into a long sword, i
   <h3>Biography:</h3>
   <p>Before becoming a Spirit Tamer in the Soul Association, Louis was a monk who upheld the philosophy of "Power to Peace"—the belief that power should be used for peace and harmony. But one day, a monk was caught practicing dark arts and using demonic power. That demonic power spiraled out of control, causing numerous wild demons to emerge and slaughter many monks. Fortunately, Wataru arrived just in time before Louis could be killed by a wild demon, saving his life. Meanwhile, the monk who had resorted to demonic power was killed by the very demon he sought to exploit.</p>
   <p>Filled with disappointment and sorrow, Louis was heartbroken that within a group dedicated to upholding power as a symbol of justice, someone was still consumed by a lust for power and chose the wrong path. Louis ultimately decided to join the Soul Association and become a Spirit Tamer. He successfully passed the Spirit Compress ritual and officially became a Spirit Tamer. Alongside Razor, Amanda, and Kevin, the four of them formed the first generation of the Soul Association's forces.</p>
-  <h>Power, Ability, Stats:</h>
+  <h3>Power, Ability, Stats:</h3>
   <p>Louis has a running and flying speed that can reach Mach 16. The power of his punches and kicks can reach 8 tons.</p>
   <p>Louis manifests his spiritual powers in a mirror. The mirror has several uses. Among them can absorb an attack power, or reflect it back. Louis' mirror is a defensive type, so he can't produce any attack techniques. Louis himself has mastered Spirition mode, which can make his mirror more multi-functional. The mirrors can be multiple and can also be enlarged. This also increases the amount of absorption the mirrors can hold, allowing them to absorb/withstand more attacks.</p>
 
@@ -549,6 +549,31 @@ Tartarus may not seem to possess any great power that could shake the world. But
 
 Death, the end, life, the beginning. Tartarus is not bound by those dualities. It has its own fundamental qualities, which no one can ever know.</p>
 </section>
+
+<section id="zhask">
+  <h1></h1>
+    <h2>Zhask</h2>
+  <h3>Biodata:</h3>
+  <ul>
+    <li>Classification : demon</li>
+    <li>Age : 700 years old</li>
+    <li>Sex : male, genderless</li>
+    <lI>Tall : 190 cm</lI>
+    <li>Weight : 79 kg</li>
+    <li>Date of birth : unknown</li>
+    <li>Hobby : unknown</li>
+  </ul>
+<h3>Bigraphy:</h3>
+<p>For hundreds of years, there was known to be a remarkably cruel demon. During the wars against the angels, this demon claimed the highest body count. With his razor-sharp and blindingly fast discs, anyone would be sliced apart. He is Zhask—a figure notorious for his sheer brutality in battle, fighting without mercy and relying solely on his demonic instincts. He upholds the pride of demons to the highest degree. To him, demons are the personification of chaos, destruction, and domination. These values convince him that demons fundamentally belong to the side of darkness.</p>
+
+<p>However, following the sealing of demons and angels by Gatos and Azathoth, Zhask was sealed away alongside the other demons inside the underworld. Over the many years spent in that realm, Zhask felt that he and the demons had been cut off from the world, locked deep away from the outside. Zhask and the other demons tried to break free from the underworld, though all their efforts proved futile.
+After years of enduring that monotonous world, Zhask unexpectedly encountered a human named Izuna who had entered the underworld. Zhask was immediately stunned at how a human could enter a realm where they had no business being. Izuna then invited Zhask to join the group he had formed while also breaking free from the underworld. Yet Zhask didn't trust him right away, instead attacking Izuna and slicing his body in two. He refused to be ordered around and controlled by a human. Unfortunately for Zhask, Izuna was no longer a normal human; he now possessed demonic power. Using his Anti-Perception ability, Izuna fooled Zhask and managed to incapacitate him. Recognizing the gap in their power, Zhask finally agreed to comply and joined Izuna's group: The Deavoric.</p>
+
+<p>Zhask subsequently teamed up with other demons recruited by Izuna as well, including The Dark Zeus, Misha, Gaizo, and Lancelot. During his time as a member of The Deavoric, Zhask crossed paths with Natsugo—the individual known to be a reincarnated essence vessel of Azathoth. He was then tasked with killing Natsugo before Azathoth's essence became fully embedded within him. When the time came, Zhask and Natsugo clashed. Because he hadn't yet mastered his demonic power, Natsugo was overwhelmed and ended up losing his left arm. The gap between their experience and strength was massive. Moreover, Zhask disliked Natsugo because a weak human like him had become a reincarnation vessel for Azathoth. In Zhask's eyes, demonic power is a force that symbolizes chaos and destruction; a cop like Natsugo had no business holding demonic power as overwhelming as Azathoth's. Yet in that exact moment, Azathoth's demonic essence fully awakened inside Natsugo's body—his wounds from Zhask's discs immediately healed, and his arm even grew back. Losing control, Natsugo managed to overpower Zhask and even corner him. Ultimately, however, the two had to pull back and couldn't finish their escalating fight. Ever since then, Zhask has grown fiercely determined to battle Natsugo as he begins awakening his true power. He wants to defeat Natsugo not out of orders, but because to him, a human like Natsugo shouldn't possess demonic power—a fact he cannot accept, and one he wants to test for himself. Are humans truly worthy of holding demonic power? And is demonic power meant to be used in service of light and goodness? That is what Zhask wants to uncover through Natsugo: his potential as a human, a police officer, and a demon.</p>
+
+<p>Zhask isn't someone who assumes he's stronger than everyone else. Even though he's a battle maniac, Zhask is actually a demon capable of logical thinking—driven by his ego and his conviction as a demon. He holds a simple principle: demons are the personification of chaos and destruction. Demons know nothing of love or humanity, only darkness that will always swallow the light.</p>
+
+<p><i>"Is a demon still a demon if they defect from their own identity?"</i></p>
 
 <section id="world">
   <h1></h1>
