@@ -163,7 +163,7 @@ Moreover, the ritual process is very painful, where the soul of the person perfo
     <li><a href="#chris">Chris Walberd</a></li>
     <li><a href="#anastasia">Anastasia Ivory</a></li>
     <li><a href="#chloe">Chloe Mathilda</a></li>
-    <li><a href="#morgan">Morgan Vermillion</a></li>
+    <li><a href="#gerry">Gerry Vermillion</a></li>
     <li><a href="#lui">Lui Talliona</a></li>
   </ul>
 </nav>
@@ -207,7 +207,7 @@ Marsha's ultimate feat was when she reached the point where she had transcended 
 Despite having the essence of death, Marsha actually uses her demonic essence more often, although not as dominantly as Natsugo. She fights with a weapon created by the Soul Association—the Tempest Weapon. She wields two weapons, the Tempest Lancer and the Tempest Lazer. The Tempest weapon itself is created from the reaction of resonance and electromagnetic waves. It is perfect for fighting wild demons without having to manifest spiritual energy into an object. Marsha has a fighting style like an assassin, agile, fast, and always locks on to the target perfectly.</p>
     <p>Marsha can also use the Death Essence ability. An ability that allows Marsha to kill, end, and erase anything absolutely. Even something beyond the duality of life and death will still disappear at Marsha's will. No matter how high the opponent's dimensional level is, how strong they are, even if they are Terralords, death essence will end them.
 
-Marsha's greatest potential was seen when she once survived the infinite void unleashed by her enemy. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marsha was still able to survive, even tearing the void apart.
+Marsha's greatest potential was seen when she once survived the infinite void unleashed by Gerry. It was no ordinary void, it was a void that swallowed so many worlds into endless destruction. And Marsha was still able to survive, even tearing the void apart.
 
 Marsha was also chosen as the wielder and vessel of the <strong>Endless Void Core</strong>, the core of the entire concept of chaos that exists throughout the world. Allowing Marsha to create all sorts of havoc across the universe. However, Marshall won't use it for that.</p>
 <p>Up to this point, Marsha has been able to master Spirition Max mode which focuses on the death essence.</p>
@@ -555,7 +555,7 @@ Death, the end, life, the beginning. Tartarus is not bound by those dualities. I
     <h2>Zhask</h2>
   <h3>Biodata:</h3>
   <ul>
-    <li>Classification : demon</li>
+    <li>Classification : demon, cosmic Warpath</li>
     <li>Age : 700 years old</li>
     <li>Sex : male, genderless</li>
     <lI>Tall : 190 cm</lI>
@@ -574,6 +574,14 @@ After years of enduring that monotonous world, Zhask unexpectedly encountered a 
 <p>Zhask isn't someone who assumes he's stronger than everyone else. Even though he's a battle maniac, Zhask is actually a demon capable of logical thinking—driven by his ego and his conviction as a demon. He holds a simple principle: demons are the personification of chaos and destruction. Demons know nothing of love or humanity, only darkness that will always swallow the light.</p>
 
 <p><i>"Is a demon still a demon if they defect from their own identity?"</i></p>
+
+<h3>Power, Ability, Stats:</h3>
+<p>Zhask is capable of reaching speeds up to 700 million times the speed of light, with punching and kicking power hitting up to 5,500 tons.</p>
+
+<p>Zhask possesses the ability to create and control discs using his blood. He can manifest these discs in various forms—making them massive in size, duplicating them mid-air, or accelerating their spin until they become nearly invisible to the naked eye. According to Zhask's own claim, his discs can slice through the moon, even cutting it into numerous fragments.
+When Zhask activates Spirition mode, his discs can slice through not just physical objects, but space itself. When pushed to their maximum potential, his discs can carve out dimensional rifts, trailing the rotation of the blades as if eroding the fabric of the dimension.</p>
+
+<p>As the story progresses, Zhask evolves and transcends the existential limits of a demon. Through training and a ritual provided by Gerry, Zhask evolves into <strong>Cosmic Warpath</strong> —his demonic existence resonating with cosmic energy, drastically amplifying all of his stats. Furthermore, his discs can now cut through not only space, but also time. This was demonstrated by Gerry: when Gerry froze time, the discs launched by Zhask were still able to move rapidly, as if the time-stop couldn't halt their rotation. Additionally, Zhask has experienced massive growth in durability, proven by how he survived Natsugo's Demonic Instinct Lock mode ability—where even after taking a direct hit from the attack, Zhask was not instantly obliterated.</p>
 
 <section id="world">
   <h1></h1>
